@@ -1,3 +1,3 @@
 # To-Do-App
 
-Using Html,Css, Javascript
+To Do App using Html,Css,Javascript.
